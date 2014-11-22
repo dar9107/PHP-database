@@ -1,0 +1,13 @@
+database
+	- faster
+	- queries
+	- related data
+	- security
+	- binary
+	- size
+	- types
+	
+why use database?
+	- free
+	- popular
+	
